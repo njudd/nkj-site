@@ -21,7 +21,7 @@ skills:
   url: "https://www.r-project.org/"
 
 - name: Data visualization
-  icon: "images/skills/dat_viz.png"
+  icon: "images/skills/dat_viz2.png"
   summary: "I am particularly fond of data visualization, not only conveying a pretty looking graph yet also an intuitive a clear narrative." 
 
 - name: SQL
@@ -34,5 +34,5 @@ skills:
 
 - name: Git
   icon: "images/skills/git.png"
-  summary: "I use git daily, yet unfortunately, none of my colleagues do so I am less familiar with it’s more powerful features. Whenever something messes up Stackoverflow is my savior." 
+  summary: "I use git daily, yet unfortunately, none of my colleagues do so I am less familiar with it’s more powerful features. Whenever something messes up Stack Overflow is my savior." 
 
