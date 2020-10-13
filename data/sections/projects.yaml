@@ -1,0 +1,42 @@
+# section information
+section:
+  name: Projects
+  id: projects
+  enable: true
+  weight: 4
+  showOnNavbar: true
+  # Can optionally hide the title in sections
+  # hideTitle: true
+
+# filter buttons
+buttons:
+- name: All
+  filter: "all"
+- name: Articles
+  filter: "article"
+- name: Theses
+  filter: "theses"
+
+#- name: First author
+#  filter: "first"
+
+
+#- name: Professional
+#  filter: "professional"
+#- name: Academic
+#  filter: "academic"
+#- name: Hobby
+#  filter: "hobby"
+
+# your projects
+projects:
+- name: Judd & Sauce et al., 
+  #logo: images/projects/kubernetes.png
+  role: PNAS
+  timeline: "May 2020"
+  #repo: https://github.com/kubernetes/kubernetes # If your project is a public repo on GitHub, then provide this link. it will show star count.
+  url: "https://www.pnas.org/content/117/22/12411.short?rss=1/blog" 
+  summary: In this study we show that cognitive and brain development is independently influenced by socioeconomic status and polygenic scores for educational attainment.
+  tags: ["article"]
+
+
