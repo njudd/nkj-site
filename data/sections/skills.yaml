@@ -11,39 +11,28 @@ section:
 # Your Skills.
 # Give a summary of you each skill in the summary section.
 skills:
-- name: Kubernetes
-  icon: "images/skills/kubernetes.png"
-  summary: "Capable of deploying, managing application on Kubernetes. Experienced in writing Kubernetes controllers for CRDs."
-  url: "https://kubernetes.io/"
+- name: Applied Statistics
+  icon: "images/skills/stats.png"
+  summary: "Bayesian, structural equation modeling, linear mixed-effect, or just a good GLM. Whatever gets the job done to the best extent!" 
 
-- name: Go Development
-  icon: "images/skills/go.png"
-  summary: "Using as the main language for professional development. Capable of writing scalable, testable, and maintainable program."
-  url: "https://golang.org/"
+- name: R programming
+  icon: "images/skills/R_logo.png"
+  summary: "My admiration for statistics naturally feeds into my love of R. I'm well versed in data wrangling and cleaning."
+  url: "https://www.r-project.org/"
 
-- name: Cloud Computing
-  icon: "images/skills/cloud.png"
-  summary: "Worked with most of the major clouds such as GCP, AWS, Azure etc."
+- name: Data visualization
+  icon: "images/skills/dat_viz.png"
+  summary: "I am particularly fond of data visualization, not only conveying a pretty looking graph yet also an intuitive a clear narrative." 
 
-- name: Docker
-  icon: "images/skills/docker.svg"
-  summary: "Write most of the programs as dockerized container. Experienced with multi-stage, multi-arch build process."
-  url: "https://www.docker.com/"
-
-- name: Prometheus
-  icon: "images/skills/prometheus.png"
-  summary: "Capable of setup, configure Prometheus metrics. Experienced with PromQL, AlertManager. Also, experienced with writing metric exporters."
-  url: "https://prometheus.io/"
+- name: SQL
+  icon: "images/skills/sql.png"
+  summary: "Used SQL when I needed to extract data from the non-profit Cognition Matters. I am by no means an expert, yet I can extract and summarise stuff."
 
 - name: Linux
   icon: "images/skills/linux.png"
-  summary: "Using as the main operating system. Capable of writing bash/shell scripts."
+  summary: "I use bash on a semi-regular basis when working on servers or the Swedish National Infrastructure for Computing high-performance clusters. On my local I use zsh."
 
 - name: Git
   icon: "images/skills/git.png"
-  summary: "Experienced with git-based development. Mostly, use Github. Also, have experience in working with GitLab."
-  url: "https://git-scm.com/"
+  summary: "I use git daily, yet unfortunately, none of my colleagues do so I am less familiar with it’s more powerful features. Whenever something messes up Stackoverflow is my savior." 
 
-- name: C++
-  icon: "images/skills/c++.png"
-  summary: "Know basic C/C++ programming. Used for contest programming and problem solving."
