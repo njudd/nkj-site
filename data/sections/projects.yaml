@@ -30,13 +30,40 @@ buttons:
 
 # your projects
 projects:
-- name: Judd & Sauce et al., 
+- name: Judd & Sauce et al. (2020), 
   #logo: images/projects/kubernetes.png
   role: PNAS
   timeline: "May 2020"
   #repo: https://github.com/kubernetes/kubernetes # If your project is a public repo on GitHub, then provide this link. it will show star count.
-  url: "https://www.pnas.org/content/117/22/12411.short?rss=1/blog" 
-  summary: In this study we show that cognitive and brain development is independently influenced by socioeconomic status and polygenic scores for educational attainment.
+  url: "https://www.pnas.org/content/pnas/117/22/12411.full.pdf"
+  summary: Cognitive and brain development is independently influenced by socioeconomic status and polygenic scores for educational attainment.
   tags: ["article"]
 
 
+- name: Judd [Thesis], 
+  role: UvA
+  timeline: "2017"
+  url: "https://scripties.uba.uva.nl/search?id=637172"
+  summary: Behavioral and Gray Matter Differences in Children Training Mathematics and Working Memory.
+  tags: ["theses"]
+
+- name: Judd [Lit Thesis], 
+  role: UvA
+  timeline: "2017"
+  url: "https://scripties.uba.uva.nl/search?id=637173"
+  summary: Cogito ergo sum by Imaging: The utility of neuroimaging in assessing state of consciousness 
+  tags: ["theses"]
+
+- name: Judd [Thesis], 
+  role: UvA
+  timeline: "2016"
+  url: "https://scripties.uba.uva.nl/search?id=637174"
+  summary: Atlasing the Human Subcortex: Sequence development.
+  tags: ["theses"]
+
+- name: Judd [Thesis], 
+  role: Umea
+  timeline: "2016"
+  url: "https://umu.diva-portal.org/smash/record.jsf?dswid=7364&pid=diva2%3A903955&c=2&searchType=SIMPLE&language=en&query=judd&af=%5B%5D&aq=%5B%5B%5D%5D&aq2=%5B%5B%5D%5D&aqe=%5B%5D&noOfRows=50&sortOrder=author_sort_asc&sortOrder2=title_sort_asc&onlyFullText=false&sf=all"
+  summary: An Examination of Unconscious Working Memory Flexibility using Continuous Flash Suppression.
+  tags: ["theses"]
