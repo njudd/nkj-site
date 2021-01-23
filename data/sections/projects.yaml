@@ -30,6 +30,16 @@ buttons:
 
 # your projects
 projects:
+
+- name: Judd & Klingberg (2020), 
+  #logo: images/projects/kubernetes.png
+  role: PsyArxiv
+  timeline: "Dec 2020"
+  #repo: https://github.com/kubernetes/kubernetes # If your project is a public repo on GitHub, then provide this link. it will show star count.
+  url: "https://psyarxiv.com/z3pb7/"
+  summary: Does training spatial cognition transfer to maths in kids?
+  tags: ["article"]
+
 - name: Judd & Sauce et al. (2020), 
   #logo: images/projects/kubernetes.png
   role: PNAS
